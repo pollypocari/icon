@@ -1,1 +1,1 @@
-App shortcut icon
+
